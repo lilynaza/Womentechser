@@ -1,5 +1,4 @@
 # Womentechser
-# User Requirement (Manager)
 A complain system that helps the team to detect and translate complains made by the company’s French customers to English.And the system will also be able to translate to any language the team specifies.
 
 leverage on the following:
